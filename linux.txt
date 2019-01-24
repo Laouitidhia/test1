@@ -1,1 +1,2 @@
-Linux est le noyeau de système d'exploitation Linux 
+Linux est le noyeau de système d'exploitation Linux
+Gnu reprend les concepts et le fonctionnement d'UNIX 
